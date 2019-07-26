@@ -1,0 +1,38 @@
+body{
+    background-image: url("tumblr.gif");
+    background-repeat: no-repeat;
+    color: antiquewhite;
+    background-color:purple;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+      text-align: center;
+      padding-top: 250px;
+      font-size: 80px;
+      font-family: 'Londrina Shadow', cursive;
+}
+
+.card {
+    background-color: lightgreen;
+}
+
+p{
+    text-align: center;
+}
+
+
+h2{
+    padding-top: 250px;
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+}
